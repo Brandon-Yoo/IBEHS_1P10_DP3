@@ -10,9 +10,13 @@ This project is a Python-based automation system that uses sensors, motors, and 
 
 ## Hardware Requirements
 Raspberry Pi (or compatible GPIO controller)
+
 3 Buttons
-1 Distance Sensor (ime of Flight VL530X Distance Sensor)
-2 DC Motors (1 for cutter one for slider)
+
+1 Distance Sensor (Time of Flight VL530X Distance Sensor)
+
+2 DC Motors (1 for cutter, 1 for slider)
+
 Red LED
 
 ## To Run
